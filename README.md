@@ -56,4 +56,38 @@ This project follows a clean and modular Flutter structure for easy understandin
 
 <img width="1919" height="1079" alt="Screenshot 2025-10-17 110335" src="https://github.com/user-attachments/assets/1b3a3690-4d98-4649-b54c-b68589fbd85b" />
 
-## Thank You !!
+## ▶️ How to Run the Project
+
+**Step 1:** Install Flutter SDK  
+Make sure Flutter is installed and added to your system PATH.  
+Verify the installation using:  
+`flutter --version`
+
+**Step 2:** Install a suitable IDE  
+Install **Android Studio** or **Visual Studio Code** and enable the Flutter and Dart plugins.
+
+**Step 3:** Clone the project repository  
+Download the source code from GitHub using:  
+`git clone https://github.com/your-username/advanced-bmi-calculator.git`
+
+**Step 4:** Navigate to the project directory  
+Move into the project folder using:  
+`cd advanced-bmi-calculator`
+
+**Step 5:** Install project dependencies  
+Fetch all required Flutter packages using:  
+`flutter pub get`
+
+**Step 6:** Check connected devices  
+Ensure an emulator, physical device, or browser is available by running:  
+`flutter devices`
+
+**Step 7:** Run the application  
+Launch the application on the selected device using:  
+`flutter run`
+
+**Step 8 (Optional – Web):** Run on Chrome browser  
+To run the application on the web, use:  
+`flutter run -d chrome`
+
+##✨ Thank You !!
